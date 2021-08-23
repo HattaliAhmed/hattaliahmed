@@ -1,4 +1,3 @@
-### Hi there 👋
 <a href="http://github.com/HattaliAhmed"><img alt="Ahmed Hattali Banner" src="https://raw.githubusercontent.com/HattaliAhmed/hattaliahmed/main/banner.svg"/></a>
 
 <!--
