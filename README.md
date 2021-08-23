@@ -1,4 +1,4 @@
-<a href="http://github.com/HattaliAhmed"><img alt="Ahmed Hattali Banner" src="https://raw.githubusercontent.com/HattaliAhmed/hattaliahmed/main/banner.svg"/></a>
+<a href="http://github.com/HattaliAhmed"><img alt="Ahmed Hattali Banner" src="https://github.com/HattaliAhmed/hattaliahmed/blob/main/banner.svg"/></a>
 
 <!--
 **HattaliAhmed/hattaliahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
